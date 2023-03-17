@@ -1,0 +1,31 @@
+body {
+    background-color: #0073B6;
+}
+h1 {
+    color: aqua;
+    width: max-content;
+    margin: auto;
+    border: solid;
+    background-color: rgb(54, 91, 124);
+}
+.ab {
+    width: fit-content;
+}
+.abc {
+    width: fit-content;
+    margin-bottom: auto;
+}
+.c {
+    width: fit-content;
+    margin: auto;
+}
+.f {
+color: aqua;
+background-color: rgb(54, 91, 124);
+border: dashed;
+}
+.e {
+color: aqua;
+background-color: rgb(54, 91, 124);
+border: dashed;
+}
